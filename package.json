@@ -1,7 +1,7 @@
 {
   "name": "ama.js",
-  "version": "0.0.0",
-  "description": "A Javascript library that helps connect to the AMA (Autoridad Metropolitana de Autobuses) API.",
+  "version": "0.0.1",
+  "description": "A Javascript wrapper for the Autoridad Metropolitana de Autobuses' (AMA) API.",
   "main": "index.js",
   "dependencies": {
     "hyperquest": "~0.3.0",
@@ -16,7 +16,7 @@
     "url": "git://github.com/Sparragus/ama.js.git"
   },
   "author": "Richard B. Kaufman-Lopez <richardbkaufman@gmail.com>",
-  "license": "BSD-2-Clause",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Sparragus/ama.js/issues"
   }
